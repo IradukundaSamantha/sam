@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 100%;
+    background-color: grey;
+    height: 10vh;
+    justify-content: space-between;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+
+}
+.div{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+.button{
+    background-color: blue;
+    text-align: center;
+    padding: 2px;
+    height: 20px;
+    width: 50;
+    color: white;
+}
+.navbar-logo{
+    background-color: white;
+    
+  
+
+}
+.body{
+    background-color: burlywood;
+    height: 200vh;
+    width: 100%;
+}
